@@ -35,7 +35,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com:kalwi/simple-jit.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/kalwi/simple-jit.git</developerConnection>
     </scm>
 
     <build>
