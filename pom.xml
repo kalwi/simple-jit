@@ -9,8 +9,8 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>Simple JIT POM</name>
-    <description>Simple Jenkins Integration Test POM</description>
+    <name>Simple JIT</name>
+    <description>Simple Jenkins Integration Test</description>
 
     <url>http://build.kalwi.eu:8080/view/JIT/</url>
 
