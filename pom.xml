@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <name>Simple JIT POM</name>
-    <description>Simple Jenkins Integration Test</description>
+    <description>Simple Jenkins Integration Test POM</description>
 
     <url>http://build.kalwi.eu:8080/view/JIT/</url>
 
