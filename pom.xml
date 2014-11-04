@@ -5,7 +5,7 @@
 
     <groupId>eu.kalwi.test.jit</groupId>
     <artifactId>simple-jit</artifactId>
-    <version>1.0.9</version>
+    <version>1.0.10-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Simple JIT POM</name>
@@ -37,7 +37,7 @@
         <url>https://github.com/kalwi/simple-jit.git</url>
         <connection>https://github.com/kalwi/simple-jit.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/kalwi/simple-jit.git</developerConnection>
-        <tag>simple-jit-1.0.9</tag>
+        <tag>master/HEAD</tag>
     </scm>
 
     <build>
