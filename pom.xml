@@ -36,9 +36,9 @@
     <scm>
         <url>https://github.com/kalwi/simple-jit.git</url>
         <connection>https://github.com/kalwi/simple-jit.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/kalwi/simple-jit.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <developerConnection>scm:git:git@github.com:kalwi/simple-jit.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <extensions>
